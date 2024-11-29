@@ -1,2 +1,7 @@
-# tarea_pia01
-Ese repositorio tiene como propósito realizar las tareas de el módulo programación de inteligencia artificial 2024/2025
+# tarea-pia01
+**Descripción:**
+Esta es la tarea del tema 1 de programación de inteligencia artificial.
+
+**Estructura del repositorio:**
+* **README.md:** Este archivo.
+* **hola_mundo.py:** Un script de Python básico, que muestra en pantalla el típico ¡Hola, Mundo!
